@@ -1,0 +1,15 @@
+.containerfirst{
+	 background-color: #B0E0E6;
+	 width: 100%;
+}
+
+.container{
+       background-color: #B0E0E6;
+       	 border-left: 1px solid green;
+	 border-right: 1px solid green;
+	 border-radius: 10px;
+    }
+
+    .btn-primary{
+    	border-radius: 10px;
+    }

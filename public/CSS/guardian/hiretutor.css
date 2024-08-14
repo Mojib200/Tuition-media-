@@ -1,0 +1,18 @@
+.guardian_request_head{
+	height: auto;
+	width: auto;
+	border: 1px solid green;
+}
+.center{
+	height: auto;
+	text-align: center;
+	border: 1px solid;
+     padding: 5px;
+}
+.guardian_request{
+	margin-bottom:15px;
+}
+
+.container{
+	padding: 10px;
+}
